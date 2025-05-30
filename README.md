@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dulip Sameera</h1>
-<h3 align="center">I'm an undergraduate software engineering student from Sri Lanka</h3>
+<h3 align="center">I'm an Full Stack Software Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulip-sameera&label=Profile%20views&color=0e75b6&style=flat" alt="dulip-sameera" /> </p>
 
